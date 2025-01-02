@@ -1,7 +1,6 @@
 <template>
   <div>
     <ul>
-      <li><router-link to="/about">About</router-link></li>
     </ul>
     <!-- 소개 섹션 -->
     <section id="">
